@@ -9,7 +9,7 @@ export default async function Search() {
   return (
     <main className="p-6">
       <h1 className="text-3xl font-bold mb-4">🚀 Search your pokemon</h1>
-      {/* TODO: pass list items to a custom component */}
+      {/* TODO: Render SearchableList component */}
     </main>
   );
 }
