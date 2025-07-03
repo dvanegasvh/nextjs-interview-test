@@ -8,7 +8,7 @@ interface Props {
 export default function SearchableList({ items }: Props) {
   // TODO: Render:
   //   • a text <input> for search
-  //   • a list (e.g. <ul>) mapping over filteredItems
+  //   • a list (e.g. <ul> and <li>) mapping over filteredItems
   //   • an empty state message if no items match or if you haven't searched yet
 
   return (
